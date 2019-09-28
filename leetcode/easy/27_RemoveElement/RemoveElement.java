@@ -8,22 +8,23 @@ class RemoveElement {
 
   public static int removeElement(int nums[], int val){
 
-    int x = nums.length - 1;
-    int i = 0;
+    int x = nums.length;
+   int i = 0;
 
-    while(i < x) {
-      if(val != nums[i]) {
-        i++;
-      } else {
-        int temp = nums[i];
-        nums[i] = nums[x];
-        nums[x] = temp;
-        x--;
-      }
-    }
-    System.out.println(Arrays.toString(nums));
-    System.out.println(Integer.toString(x + 1));
-    return x + 1;
+   while(i < x) {
+     if(val != nums[i]) {
+       i++;
+     } else {
+       int temp = nums[i];
+       nums[i] = nums[x - 1];
+       nums[x - 1] = temp;
+       x--;
+     }
+   }
+   System.out.println(Array.toString(nums));
+   System.out.println(Integer.toString(val))
+   return x;
+   }
   }
 
 }
