@@ -1,4 +1,7 @@
 # Getting Ready for Interviews
 
-1. Technical Question Review
-2. Leetcode
+## Daily Check-list:
+1. Whiteboard an old question.
+2. Whiteboard a new question.
+3. Coursera - 2-4 Lectures and Work.
+4. Optional - Do some Technical Question Review
