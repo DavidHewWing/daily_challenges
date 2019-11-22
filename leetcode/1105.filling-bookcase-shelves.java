@@ -17,3 +17,5 @@ class Solution {
         return dp[books.length];
     }
 }
+
+// still gotta review this.
