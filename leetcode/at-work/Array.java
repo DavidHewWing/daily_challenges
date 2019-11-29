@@ -3,7 +3,9 @@ class Solution {
 
     }
 
-    private static int[] bigger(int[] A, int K) {
+    private static int[] smaller(String A, String B) {
+        String[] aArr = A.split(",");
+        String[] bArr = B.split(",");
         
     }
 }
