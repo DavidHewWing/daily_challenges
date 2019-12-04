@@ -13,4 +13,14 @@ You have only one instance of that class throughout the lifecycle of the applica
 
 For example Chess: you only want one board for the whole game.
 
+### Observer Pattern
+One-to-many dependency between objects so that when one object changes state, all the dependents are notificed.
+
+Observer -> Interested in updates
+Subject -> Acts
+
+Observer will subscribe to the Subjects methods, or values and change accordingly.
+
+Similar to BehaviourSubject in Angular.
+
 
