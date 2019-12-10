@@ -26,3 +26,15 @@
     1. Try to finish these within 45 minutes
 5. Do a mock interview AT LEAST once a week
 6. Towards the last month of interview prep, do the 1-month term plan in EPI on PAPER
+
+### Step 1
+:heavy_check_mark: -> Good - Just Review
+
+:heavy_minus_sign: -> OK - Needs Work (practice a little)
+
+:x: -> Bad - Must learn and practice heavily
+* Array: :heavy_check_mark:
+* Math: :heavy_check_mark:
+* DP: :x: (Practice easy only)
+* String :heavy_minus_sign:
+
