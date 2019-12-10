@@ -37,7 +37,7 @@
 * Math: :heavy_check_mark:
 * DP: :x: (Practice easy only)
 * String :heavy_minus_sign:
-
+* Depth-First-Search and Recursion :x:
 ## Must Do
 
 ### Easy
