@@ -35,9 +35,11 @@
 :x: -> Bad - Must learn and practice heavily
 * Array: :heavy_check_mark:
 * Math: :heavy_check_mark:
-* DP: :x: (Practice easy only)
+* Hashing :heavy_minus_sign:
 * String :heavy_minus_sign:
+* DP: :x: (Practice easy only)
 * Depth-First-Search and Recursion :x:
+* Trees :x:
 ## Must Do
 
 ### Easy
