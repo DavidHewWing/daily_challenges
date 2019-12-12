@@ -49,7 +49,7 @@
 * #13. Roman to Integer 
 * #20. Valid Parentheses :heavy_check_mark:
 * #21. Merge Two Sorted Lists :heavy_check_mark:
-* #141. Linked List Cycle
+* #141. Linked List Cycle :heavy_check_mark:
 * #155. Min Stack
 * #169. Majority Element
 * #202. Happy Number
