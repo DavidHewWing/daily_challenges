@@ -46,10 +46,40 @@
 
 👉 Save as list to practice these questions
 
-* #13. Roman to Integer 
+* #13. Roman to Integer :heavy_minus_sign:
 * #20. Valid Parentheses :heavy_check_mark:
 * #21. Merge Two Sorted Lists :heavy_check_mark:
 * #141. Linked List Cycle :heavy_check_mark:
+* #155. Min Stack :heavy_check_mark:
+* #169. Majority Element :heavy_check_mark:
+* #202. Happy Number :heavy_check_mark:
+* #204. Count Primes :heavy_minus_sign:
+* #242. Valid Anagram :heavy_check_mark:
+* #88. Merge Sorted Array :heavy_minus_sign:
+* #108. Convert Sorted Array to Binary Search Tree
+* #189. Rotate Array
+* #205. Isomorphic Strings
+* #226. Invert Binary Tree
+* #448. Find All Numbers Disappeared in an Array
+* #572. Subtree of Another Tree
+* #557. Reverse Words in a String III
+* #589. N-ary Tree Preorder Traversal
+* #605. Can Place Flowers
+* #617. Merge Two Binary Trees
+* #665. Non-decreasing Array
+* #669. Trim a Binary Search Tree
+* #674. Longest Continuous Increasing Subsequence
+* #703. Kth Largest Element in a Stream
+* #705. Design HashSet
+* #852. Peak Index in a Mountain Array
+* #1160. Find Words That Can Be Formed by Characters
+
+### Medium
+
+* #13. Roman to Integer
+* #20. Valid Parentheses
+* #21. Merge Two Sorted Lists
+* #141. Linked List Cycle
 * #155. Min Stack
 * #169. Majority Element
 * #202. Happy Number
@@ -74,30 +104,6 @@
 * #705. Design HashSet
 * #852. Peak Index in a Mountain Array
 * #1160. Find Words That Can Be Formed by Characters
-
-### Medium
-
-👉 Save as list to practice these questions
-
-#15 3 Sum
-
-#19 Remove Nth node from end of a Linked List
-
-#98 Validate BST
-
-#54 Spiral Matrix
-
-#55 Jump Game
-
-#215 Kth largest element in an array
-
-#23 Merge K sorted list
-
-#32 Longest Valid Parantheses
-
-#403 Frog Jump
-
-#239 Sliding Window Maximum
 
 ## Advice from L4 Google Offer:
 * Prep every day but make sure to also take breaks
