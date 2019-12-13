@@ -76,9 +76,9 @@
 
 ### Medium
 
-* #5. Longest Palindromic Substring
-* #11. Container With Most Water
-* #17. Letter Combinations of a Phone Number
+* #5. Longest Palindromic Substring :heavy_check_mark:
+* #11. Container With Most Water :heavy_check_mark:
+* #17. Letter Combinations of a Phone Number :heavy_check_mark:
 * #22. Generate Parentheses
 * #33. Search in Rotated Sorted Array
 * #34. Find First and Last Position of Element in Sorted Array
