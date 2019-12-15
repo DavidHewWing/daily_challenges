@@ -119,6 +119,7 @@
 * #1171. Remove Zero Sum Consecutive Nodes from Linked List
 
 ## Advice from L4 Google Offer:
+* Okta - Went well
 * Prep every day but make sure to also take breaks
 * Solve the same question more than once (on different days). It's encouraging to feel like you learned how to solve it and also ensure you're retaining what you learn
 * Ignore the ranking information. I found it very useless to know that all my answer were at the bottom 50% of submissions.
