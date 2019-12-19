@@ -57,7 +57,7 @@
 * #242. Valid Anagram :heavy_check_mark:
 * #88. Merge Sorted Array :heavy_minus_sign:
 * #108. Convert Sorted Array to Binary Search Tree
-* #189. Rotate Array
+* #189. Rotate Array :heavy_check_mark:
 * #205. Isomorphic Strings
 * #226. Invert Binary Tree
 * #448. Find All Numbers Disappeared in an Array
