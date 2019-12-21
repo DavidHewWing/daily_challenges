@@ -57,7 +57,7 @@
 * #242. Valid Anagram :heavy_check_mark:
 * #88. Merge Sorted Array :heavy_minus_sign:
 * #108. Convert Sorted Array to Binary Search Tree
-* #189. Rotate Array
+* #189. Rotate Array :heavy_check_mark:
 * #205. Isomorphic Strings
 * #226. Invert Binary Tree
 * #448. Find All Numbers Disappeared in an Array
@@ -80,7 +80,7 @@
 * #11. Container With Most Water :heavy_check_mark:
 * #17. Letter Combinations of a Phone Number :heavy_check_mark:
 * #22. Generate Parentheses
-* #33. Search in Rotated Sorted Array
+* #33. Search in Rotated Sorted Array :heavy_check_mark:
 * #34. Find First and Last Position of Element in Sorted Array
 * #46. Permutations
 * #24. Swap Nodes in Pairs
