@@ -80,7 +80,7 @@
 * #11. Container With Most Water :heavy_check_mark:
 * #17. Letter Combinations of a Phone Number :heavy_check_mark:
 * #22. Generate Parentheses
-* #33. Search in Rotated Sorted Array
+* #33. Search in Rotated Sorted Array :heavy_check_mark:
 * #34. Find First and Last Position of Element in Sorted Array
 * #46. Permutations
 * #24. Swap Nodes in Pairs
