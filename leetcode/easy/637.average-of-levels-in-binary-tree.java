@@ -10,7 +10,7 @@
  * public class TreeNode {
  *     int val;
  *     TreeNode left;
- *     TreeNode right;
+ *     TreeNode right;this is the way i like to type, this is the
  *     TreeNode(int x) { val = x; }
  * }
  */
