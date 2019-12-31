@@ -8,3 +8,9 @@
 * Usually deals with sorted arrays
 * 2Sum and other mathimatical questions
 * Approach by putting hi pointer and lo pointer
+
+### Pattern 3: Slow-fast Pointers
+* Usually deals with linked lists
+* When you have to detect a cycle.
+* Often solution is to find the midpoint of the list and modify the first hald and second half.
+* `while (fast.next != null && fast != null) {slow = slow.next; fast = fast.next.next}` (find the midpoint)
