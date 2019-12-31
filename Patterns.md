@@ -5,3 +5,6 @@
 * You also have to identify if the window size is always going to be the same (fixed) or you have to shrink/expand it
 
 ### Pattern 2: Two Pointers
+* Usually deals with sorted arrays
+* 2Sum and other mathimatical questions
+* Approach by putting hi pointer and lo pointer
