@@ -14,3 +14,9 @@
 * When you have to detect a cycle.
 * Often solution is to find the midpoint of the list and modify the first hald and second half.
 * `while (fast.next != null && fast != null) {slow = slow.next; fast = fast.next.next}` (find the midpoint)
+
+### Pattern 4: Interval
+* Two intervals (A, B) or overlapping / intersecting / are of interest if: Ay >= Bx
+* Example: A = [1,5], B = [0, 2]
+* Here: **Ax <= By or By >= Ax** so (1 <= 2 or 2 >= 1). Therefore they are overlapping.
+
