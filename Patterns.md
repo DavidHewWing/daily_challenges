@@ -20,3 +20,51 @@
 * Example: A = [1,5], B = [0, 2]
 * Here: **Ax <= By or By >= Ax** so (1 <= 2 or 2 >= 1). Therefore they are overlapping.
 
+### Pattern: Topological Sort
+* Step 1: Initialize Graph
+* Step 2: Build Graph
+* Step 3: Find Source Verticies
+* Step 4: Breadth first search and add to queue when there becomes a new source.
+* If there is a valid Top sort then the size of result will be same at prerequisites
+
+```
+  HashMap<Integer, Integer> degrees = new HashMap<>();
+  HashMap<Integer, List<Integer>> graph = new HashMap<>();
+  
+  // Step 1: Init Graph
+  for (int i = 1; i < numTasks; i++){
+    degrees.put(i, 0);
+    graph.put(i, new ArrayList<>());
+  }
+  
+  // Step 2: Build Graph
+  for (int[] edge : edgeList) {
+    int parent = edge[0];
+    int child = edge[1];
+    degrees.put(child, degrees.get(child));
+    graph.get(parent).add(child);
+  }
+  
+  // Step 3: Find Source Verticies and make them start of BFS
+  Queue<Integer> queue = new LinkedList<>();
+  for (int key : degrees.keySet()) {
+    if (degrees.get(key) == 0)
+      queue.add(key);
+  }
+  
+  // Step 4: Run BFS
+  List<Integer> result = new ArrayList<>();
+  while (!queue.isEmpty()) {
+    int current = queue.poll();
+    result.add(current);
+    List<Integer> temp = graph.get(current);
+    for (int child : temp) {
+      degrees.put(child, degrees.put(child) - 1));
+      if (degrees.get(child) == 0)
+        queue.offer(child);
+    }
+  // Return;
+  return result;
+  }
+```
+
