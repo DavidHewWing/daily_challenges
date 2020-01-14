@@ -20,7 +20,7 @@
 * Example: A = [1,5], B = [0, 2]
 * Here: **Ax <= By or By >= Ax** so (1 <= 2 or 2 >= 1). Therefore they are overlapping.
 
-### Pattern: Topological Sort
+### Pattern 5: Topological Sort
 * Step 1: Initialize Graph
 * Step 2: Build Graph
 * Step 3: Find Source Verticies
