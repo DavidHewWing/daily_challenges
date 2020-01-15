@@ -67,4 +67,16 @@
   return result;
   }
 ```
+### Pattern: DFS on Binary Tree
+* Just think BOTTOM UP
+* What happens when you start from the bottom and work your way up
 
+```
+// Height
+public int height (TreeNode root) {
+  if (root == null) return 0;
+  int left = height(root.left);
+  int right = height(root.right);
+  return Math.max(left, right) + 1;
+}  
+```
