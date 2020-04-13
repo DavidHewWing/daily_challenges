@@ -15,4 +15,4 @@ class Solution {
       }
       return (queue.isEmpty()) ? 0 : queue.poll();
   }
-}
+}g
