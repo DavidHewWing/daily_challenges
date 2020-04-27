@@ -1,4 +1,4 @@
-package Medium
+package Medium;
 
 class Solution {
   // This problem follows the prefix sum pattern.
