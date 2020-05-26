@@ -25,3 +25,8 @@ Sum = 6 - 1
 So on, and so forth...
 
 ```
+
+## Notes
+- If we see that there is a repeating and we can swap a certain amount of values. We take repeatedValue - windowSize will be the everything not repeated.
+- If we want distinct character, we use a map and we can reduce size when entry is 0 and decrement frequency
+- NoRepeat we have to get the latest index, which will become start if we see it again, or if start is ahead of the last seen it will be start
