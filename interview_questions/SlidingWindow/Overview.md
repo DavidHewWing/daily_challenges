@@ -1,12 +1,23 @@
 # Sliding Window
 - Use when calculating something on a subarray
 
+# Method
+Basically when you have identified as a Sliding Window problem you have to ask yourself.
+1. When do I increment Start?
+2. When do I increment End?
+3. What do I do when I increment start?
+4. What do I do when I increment end?
+
+If you can find the answer to these problems. You will have a good chance of answering the problem.
+
 ## Example
 We know that what we want is a contiguous subarray, and usually a sum/product of some sort.
 
 So we take a window and subtract from everything leaving, and add the incoming element to the window.
 
 ```
+
+
 Find largest subarray of size 3.
 
 [1,2,3,4,5], k = 3
